@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38405" started-at="2021-07-28T11:45:24Z" finished-at="2021-07-28T11:46:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38405" started-at="2021-07-28T11:45:24Z" finished-at="2021-07-28T11:46:02Z">
+      <class name="testing.com.PranithSelenium.TestDemo">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="launch" is-config="true" duration-ms="1752" started-at="2021-07-28T11:45:24Z" finished-at="2021-07-28T11:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="add()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="add" duration-ms="6212" started-at="2021-07-28T11:45:26Z" finished-at="2021-07-28T11:45:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="closeBrowser" is-config="true" duration-ms="664" started-at="2021-07-28T11:45:32Z" finished-at="2021-07-28T11:45:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="launch" is-config="true" duration-ms="1084" started-at="2021-07-28T11:45:33Z" finished-at="2021-07-28T11:45:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="divide()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="divide" duration-ms="5713" started-at="2021-07-28T11:45:34Z" finished-at="2021-07-28T11:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divide -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="closeBrowser" is-config="true" duration-ms="676" started-at="2021-07-28T11:45:39Z" finished-at="2021-07-28T11:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="launch" is-config="true" duration-ms="1030" started-at="2021-07-28T11:45:40Z" finished-at="2021-07-28T11:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="divideWith0()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="divideWith0" duration-ms="5957" started-at="2021-07-28T11:45:41Z" finished-at="2021-07-28T11:45:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divideWith0 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="closeBrowser" is-config="true" duration-ms="650" started-at="2021-07-28T11:45:47Z" finished-at="2021-07-28T11:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="launch" is-config="true" duration-ms="1076" started-at="2021-07-28T11:45:48Z" finished-at="2021-07-28T11:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="multiply()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="multiply" duration-ms="5626" started-at="2021-07-28T11:45:49Z" finished-at="2021-07-28T11:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="closeBrowser" is-config="true" duration-ms="665" started-at="2021-07-28T11:45:54Z" finished-at="2021-07-28T11:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="launch" is-config="true" duration-ms="1066" started-at="2021-07-28T11:45:55Z" finished-at="2021-07-28T11:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="substract()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="substract" duration-ms="5556" started-at="2021-07-28T11:45:56Z" finished-at="2021-07-28T11:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- substract -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testing.com.PranithSelenium.TestDemo@2b98378d]" name="closeBrowser" is-config="true" duration-ms="667" started-at="2021-07-28T11:46:02Z" finished-at="2021-07-28T11:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testing.com.PranithSelenium.TestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
